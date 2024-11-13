@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently studying Computer Engineering at Chulalongkorn University<br>⚡ I love making website and game development<br>🌱 I'm eager to study new stuff such as cybersecurity, blockchain etc.<br>
+# About Me:
+-I’m currently studying Computer Engineering at Chulalongkorn University<br>-I love making website and game development<br>-I'm eager to study new stuff such as cybersecurity, blockchain etc.<br>
 
 
 ### Programming Languages
